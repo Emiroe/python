@@ -1,0 +1,6 @@
+print(5+3)
+print(11-3)
+print(2*4)
+print(int(64/8))
+print(89%9)
+print(2**3)
